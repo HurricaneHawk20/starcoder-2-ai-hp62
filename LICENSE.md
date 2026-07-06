@@ -1,4 +1,4 @@
-# 
+# Secure StarCoder 2 templates. Featuring edge-computing and community-support — optimized for maximum performance and efficiency.
 
 
 
